@@ -2,7 +2,24 @@
   text-align: center;
 }
 
-.App-logo {
+#post-header {
+  background-image: linear-gradient(to right, #FF70A6, #FF9770, #FFD670, #E9FF70);
+  height: 300px;
+}
+#form-header {
+  background-image: linear-gradient(to right, #FF70A6, #FF9770, #FFD670, #E9FF70);
+  height: 300px;
+}
+#home-header {
+  background-image: linear-gradient(to right, #FF70A6, #FF9770, #FFD670, #E9FF70);
+  height: 300px;
+}
+#dash-header {
+  background-image: linear-gradient(to right, #FF70A6, #FF9770, #FFD670, #E9FF70);
+  height: 300px;
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +52,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
